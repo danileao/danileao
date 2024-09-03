@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm Dani Leão, with over 16 years of experience i
 ## Community Contributions 🌍
 
 - Developed engaging curricula and hands-on projects. 🛠️
-- Active in open-source and mentoring. 🤝
+- Mentored over 4,000 students, guiding them in their software development careers. 🤝
+
 
 ## YouTube Channel 🎥
 
