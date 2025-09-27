@@ -25,7 +25,7 @@ Check out my YouTube channel for tutorials, tips, and insights on Java, Node.js,
 
 ## Courses 📚
 
-Explore my courses on Java, Node.js, and more: [Dani Leão Courses](https://cursos.danieleleao.com)
+Explore my course Jornada Java: [Dani Leão Courses](https://jornadajava.com.br)
 
 ## Social Media 📱
 
