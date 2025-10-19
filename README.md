@@ -2,7 +2,7 @@
 
 # Dani Leão
 
-**Java Specialist | Mentor | Software Engineer** 🚀
+**Backend Specialist | Mentor | Software Engineer** 🚀
 
 Welcome to my GitHub profile! I'm Dani Leão, with over 17 years of experience in Java and backend technologies. I specialize in scalable solutions and mentoring aspiring developers.
 
